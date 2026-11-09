@@ -1,0 +1,14 @@
+{
+  "name": "Bonita",
+  "short_name": "Bonita",
+  "description": "Organizá tu día, tus sueños, tu comida y tu energía. Cada logro hace florecer tu jardín.",
+  "lang": "es",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#FFF7F4",
+  "theme_color": "#EE4B36",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}
